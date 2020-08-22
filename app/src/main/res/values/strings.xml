@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Reto 1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Titulos -->
+    <string name="barraMenu">Menú Principal</string>
+    <string name="barraFormulario">Formulario</string>
+    <string name="barraMiembros">Integrantes</string>
+    <string name="barraCalendario">Calendario</string>
+
+    <!-- Formulario -->
+    <string name="tituloFormulario">Información personal</string>
+    <string name="formularioNombre">Nombre</string>
+    <string name="formularioApellido">Apellido</string>
+    <string name="formularioTelefono">Telefono</string>
+    <string name="err_msg_name">Invalido</string>
+    <string name="errorString">Este campo no puede estar vacío</string>
+    <string name="formSend">Formulario diligenciado correctamente</string>
+
+    <!-- Miembros Equipo -->
+    <string name="nombreMiembro1">Daniel Alejandro</string>
+    <string name="nombreMiembro2">Ricardo</string>
+    <string name="apellidoMiembro1">Esquivel Correa</string>
+    <string name="apellidoMiembro2">Montoya Gallego</string>
+    <string name="telefonoMiembro1">312 860 3111</string>
+    <string name="telefonoMiembro2">312 774 8524</string>
+    <string name="presentacion">Integrantes del equipo</string>
+
+    <!-- Botones -->
+    <string name="botonText">Enviar</string>
+    <string name="bontonFecha">Elegir fecha</string>
+
+    <!-- Calendario -->
+    <string name="calcular_edad">Calcular edad</string>
+    <string name="inputFecha">DD/MM/AAAA</string>
+    <string name="botonCalcular">Calcular</string>
+    <string name="textoToast">Ingrese la fecha de nacimiento</string>
+    <string name="textoEdad">Su edad es: </string>
+    <string name="textoEdadFin">años</string>
+
+
+</resources>
